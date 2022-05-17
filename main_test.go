@@ -17,7 +17,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-python/gopy/bind"
+	"github.com/HaHadaxigua/gopy/bind"
 )
 
 var (

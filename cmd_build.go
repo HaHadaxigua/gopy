@@ -16,7 +16,7 @@ import (
 	"github.com/gonuts/commander"
 	"github.com/gonuts/flag"
 
-	"github.com/go-python/gopy/bind"
+	"github.com/HaHadaxigua/gopy/bind"
 )
 
 func gopyMakeCmdBuild() *commander.Command {
